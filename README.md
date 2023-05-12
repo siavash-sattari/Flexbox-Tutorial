@@ -2,20 +2,24 @@
 
 <br/><br/>
 
-![Flexbox](https://user-images.githubusercontent.com/88406720/139225785-0f822a01-a40a-4f1c-a61b-ba2a650e4aa7.jpg)
+<img width="1159" alt="Screen Shot 1402-02-22 at 13 42 16" src="https://github.com/siavash-sattari/Flexbox-Tutorial/assets/88406720/ffb1e60b-b49e-4347-ae98-0708ca2bc773">
 
+<br/>
 <br/>
 
 <div dir="rtl">
   
 <p>
+As you know, the concept of FlexBox or Flexible Box is a model for layering web pages in website design, which helps us to design flexible and ultimately responsive pages without using float or positioning.
 
- همونطور که میدونید مفهوم  FlexBox یا Flexible Box یک مدل برای لایه بندی صفحات وب در طراحی سایت هست که به ما کمک میکنه بدون استفاده از float و یا positioning به طراحی صفحات انعطاف پذیر و در نهایت واکنشگرا بپردازیم . 
-<br/><br/><br/>
-اگر با لایه بندی صفحات وب آشنا باشید ، قطعا با ایرادات موجود در ویژگی float که به کمک خاصیت clearfix حل میشه مواجه شدید . خوشبختانه با کمک Flexbox این مشکلات تا حدود خیلی زیادی برطرف میشن و علاوه بر ‌این ، قابلیت های زیاد دیگه ای رو در اختیار ما قرار میده که در ‌‌این کتاب الکترونیکی بطور کامل بهشون پرداخته شده و تمام تلاشم بر این بوده که در حین تالیف این کتاب الکترونیکی از بروز ترین و حرفه ای ترین متد آموزشی استفاده کنم .
-<br/><br/><br/>
-برای تهیه این آموزش ، وقت و انرژی بسیار زیادی صرف شده و ازتون درخواست دارم که اگر براتون مفید هست ، حتما در اشتراک گذاری این آموزش با سایر دوستان سهیم باشید . امیدوارم که به واسطه ی این آموزش ، بتونم به افزایش مهارت شما عزیزان در زمینه ی فرانت-اند کمک کنم و Flexbox رو حرفه ای تر فرا بگیرید . 🌹
+<br/>
+<br/>
 
+If you are familiar with the layering of web pages, you have definitely come across the flaws in the float feature that can be solved with the help of the clearfix feature. Fortunately, with the help of Flexbox, these problems can be solved to a large extent, and in addition, it provides us with many other features that are fully discussed in this e-book and all my efforts were made to ensure that while writing this book Electronically, I use the most up-to-date and professional educational method.
+
+<br/>
+
+A lot of time and energy has been spent to prepare this training and I request you to share this training with other friends if it is useful for you. I hope that through this training, I can help you increase your skills in front-end and learn Flexbox more professionally.
 
 <p/>
   
